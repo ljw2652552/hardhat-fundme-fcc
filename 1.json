@@ -1,0 +1,64 @@
+{
+    "hash": "0xd2e51c4cae00a6eb5066f9bf686f57e3f69c525501489603b10f5d55cc496337",
+    "type": 2,
+    "accessList": [],
+    "blockHash": null,
+    "blockNumber": null,
+    "transactionIndex": null,
+    "confirmations": 0,
+    "from": "0xb2A79a8cA68c856d387c65893773B7c866158935",
+    "gasPrice": {
+        "type": "BigNumber",
+        "hex": "0x59682f0b"
+    },
+    "maxPriorityFeePerGas": {
+        "type": "BigNumber",
+        "hex": "0x59682f00"
+    },
+    "maxFeePerGas": {
+        "type": "BigNumber",
+        "hex": "0x59682f0b"
+    },
+    "gasLimit": {
+        "type": "BigNumber",
+        "hex": "0x6da9"
+    },
+    "to": "0x1fb88FFa5Ab7B6a4CEC21A4Ec9608a7016594DF6",
+    "value": {
+        "type": "BigNumber",
+        "hex": "0x00"
+    },
+    "nonce": 21,
+    "data": "0x3ccfd60b",
+    "r": "0x222f1e7e828590ec280e5bf14e0463e4fdc8e0393ac8f90453008b5055eacc7f",
+    "s": "0x44847667e5eb2548e93b2384a1899a4ca5848c1e475355fc178694eb9cb15669",
+    "v": 0,
+    "creates": null,
+    "chainId": 4
+}, receipt={
+    "to": "0x1fb88FFa5Ab7B6a4CEC21A4Ec9608a7016594DF6",
+    "from": "0xb2A79a8cA68c856d387c65893773B7c866158935",
+    "contractAddress": null,
+    "transactionIndex": 12,
+    "gasUsed": {
+        "type": "BigNumber",
+        "hex": "0x6da9"
+    },
+    "logsBloom": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+    "blockHash": "0x5e6ccf9a99da269e106fec92c59da9c6e073be87395fa59040750861dda9210b",
+    "transactionHash": "0xd2e51c4cae00a6eb5066f9bf686f57e3f69c525501489603b10f5d55cc496337",
+    "logs": [],
+    "blockNumber": 11154522,
+    "confirmations": 1,
+    "cumulativeGasUsed": {
+        "type": "BigNumber",
+        "hex": "0x705d79"
+    },
+    "effectiveGasPrice": {
+        "type": "BigNumber",
+        "hex": "0x59682f09"
+    },
+    "status": 0,
+    "type": 2,
+    "byzantium": true
+}
